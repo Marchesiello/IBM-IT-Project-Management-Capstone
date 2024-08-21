@@ -351,3 +351,230 @@ Note: List at least six risks and one opportunity.
 Calculate the total risk score for the project.
 
 Save your Risk Register document with a meaningful name and also as a PDF, such as AHI App Risk Register.
+
+# Lab 4: User Stories, Product Backlog, and Sprint Backlog
+Estimated duration: 1 hour 23 minutes
+
+# Scenario: Develop an Application (App) to Provide Real-Time Marketing Data
+
+It is now time to begin the Sprint Planning for the project. The original project scenario defined functionality required by various stakeholders from the new App. Here is a quick review of the functionality requirements and a more detailed list of the needs of each role. This list will serve as a basis to develop user stories. The team also briefly reviewed the complexity level of each stakeholder's need. This will assist you in assigning story points to each user story.
+
+Stakeholder	Needs	Initial Complexity Analysis
+AHI Leadership	
+Identify and understand current and evolving segments
+Target and engage with emerging markets
+Access data feeds from all pertinent data sources
+Provide on-demand reports
+Low to Moderate
+Marketing	
+Track current market trends in the skincare industry on a real-time basis
+Monitor customer interest and preferences for AHI products based on views analysis
+Generate competitive analysis data through analysis of worldwide sales data
+Calculate AHI market share and trends by product categories
+Track sales and sales trends
+Provide on-demand reports
+High
+Finance	
+Allow for secure order invoicing and processing
+Provide real-time inventory and product availability reports
+Provide on-demand financial sales and forecasting metrics
+Moderate
+IT	
+Ensure App interfaces with new hardware and software
+Ensure App and new IT security upgrades are compatible
+Ensure IT storage meets App operational needs
+Moderate
+AHI Customers	
+Easy access to all AHI product offerings
+Secure invoicing
+Reliable order processing
+Confirmation of all transactions
+Low to Moderate
+
+# Objectives
+
+Develop a User Story to support each stakeholder's need.
+Goal is five User Stories.
+Develop a product backlog for the five user stories created.
+Develop a Sprint Backlog to support your top two prioritized user stories. This sprint backlog supports sprint 1.
+All user stories will be shared for reference in the solution.
+
+# Prerequisites
+
+You must have Microsoft Excel installed on your computer or a Microsoft Office 365 account online. If you want to sign up for Microsoft Office 365 online and need help signing up, click here.
+
+If you are new to Microsoft Excel and need some help getting started, click here.
+
+It is highly recommended that you watch the demo video, Illustrate a User Story.
+
+You should have completed the following all labs in the course to date.
+
+# Exercise 1: Create User Stories
+
+Keeping the CTRL key pressed, click here to download the User Story template.
+In the User Story Template, give each user story a title. Complete part I of each user story by role, need, and value. Your definitions may differ slightly from the solution.
+Quantify acceptance criteria in Part II.
+Save the file as a Word doc and as a PDF.
+Note: At any point during the lab, you can refer to the example if you have any doubts.
+
+Use these directions to save a Word document as a PDF if you do not know how already. You will need to upload a PDF for your final project.
+
+# Exercise 2: Develop Product Backlog
+
+Keeping the CTRL key pressed, click here to download the Product Backlog Template.
+Create a Product Backlog.
+Number each user story.
+Prioritize each user story. Note: Your prioritization may differ from the solution.
+Complete all columns.
+Note 1: Give your team a name.
+
+Note 2: Estimate story points. Use the initial complexity analysis provided in this lab introduction as a guide. Your story points may differ from the solution.
+
+Note 3: Assume that this project will be broken out into two 30-day sprints
+
+Save the file as a Word doc and as a PDF.
+Note: At any point during the lab, you can refer to the example if you have any doubts.
+
+Use these directions to save a Word document as a PDF if you do not know how already. You will need to upload a PDF for your final project.
+
+Exercise 3: Develop Sprint Backlog
+Keeping the CTRL key pressed, click here to download the Sprint Backlog Template.
+Annotate the Story ID information from the product backlog.
+Assign a lead to each user story. Create some names to serve as resources.
+Create a definition for each user story.
+Break the user story into chronological tasks. You may need to adjust user story acceptance criteria into actionable deliverables.
+Estimate the hours required to complete each task. There is no set answer. Be realistic.
+Total all hours to support the three User stories.
+Save the file as a Word doc and as a PDF.
+
+# Lab 5: Burndown Chart Analysis
+Estimated time needed: 60 minutes
+
+# Objectives
+
+After completing this lab, you will be able to analyze the project overview and burndown chart and respond to the following three questions:
+
+What problems does the burndown chart show about the project?
+What changes could the team make now to improve the chances of meeting the project scope and schedule?
+What changes could the team have made earlier to be more successful?
+
+# Prerequisites
+You must have Microsoft Word installed on your computer or a Microsoft Office 365 account online. If you want to sign up for Microsoft Office 365 online and need help with the steps to sign up, click here.
+If you are new to Microsoft Word, click here.
+
+# Scenario: Develop an Application (App) to Provide Real-Time Marketing Data
+
+The AHI development team is working to complete all app development deliverables supporting the project. They are using the Scrum methodology.
+
+The team plans to complete development in two Sprints. (Note: Sprint Backlog Lab Solution reference). It identified five user stories, estimated at 20 story points. The team assumed it could complete 10 story points in each Sprint. It budgeted 165 hours for Sprint 1 and 170 hours for Sprint 2. The team estimated 335 hours as the total time for the entire app development and scheduled each Sprint to last 30 days.
+
+The team is new, and the members do not know each other. The group consists of two internal developers and one external development consultant. Cal Hamer is the product owner. Cal understands the needs of the customers well. However, he is new to the Product Owner position. AHI does not have a Scrum Master to support app development. Cary Manning is the designated Scrum Master. Cary is well-versed in predictive project management methods. However, he has no experience in Scrum.
+
+The Sprint 1 User Story was 0004, developed to ensure that all IT hardware, software, and interfaces were installed to support the new app. Cary worked with the team to create an updated Sprint Backlog. He assigned tasks to team members and held a daily one-hour meeting to discuss status. He also developed a change form to manage changes. The team initially developed an IT infrastructure to support 500 internal and 20 million external app users.
+
+User story 0002 dealt with marketing support requirements. After the Sprint began, Cal worked with marketing staff and updated the user story to reflect the new needs. Cal scheduled a meeting with marketing and the team to discuss the changes.
+
+The first demo for Sprint 1 surprised the stakeholders. They informed the team that the app should support 200 internal and four million external users. That notice came too late. IT invested in more infrastructure than the app realistically needed. Cary determined that issues were impacting the budget and schedule for the app development and used the Sprint 1 retrospective as a forum for a comprehensive root-cause analysis and development of solutions to support Sprint 2.
+
+The team is now in Sprint 2. It encountered issues on user story 0001 and completed only 20 of the planned 40 hours. Some key executives added reporting requirements not included in the original user story.
+
+The team reviewed the project network diagram and found that the total development cycle for the app was 90 days. Cal realized that the five planned user stories in the product backlog did not include updating the original app prototype and developing an initial launch plan. AHI leadership approved the network diagram and a 90-day development cycle. The current roadmap calls for two 60-day Sprints.
+
+Cary and Cal worked together to create a burndown chart for the entire app development phase of the project. Here is the current version:
+
+Burndown Chart
+
+# Exercise: Analyze a Burndown Chart
+
+Keeping the CTRL key pressed, click here to download the Burndown Chart Analysis worksheet.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Open the Burndown Chart Analysis worksheet and respond to the three questions listed in it.
+
+Save your Burndown Chart Analysis document with a meaningful name and as a PDF, such as AHI Burndown Analysis.
+
+# Lab 6: Project Status Report and Change Request Analysis
+Estimated time needed: 75 minutes
+
+# Objectives
+
+After completing this lab, you will be able to:
+
+Create a project status report
+Generate an impact analysis
+Perform implementation options and a decision recommendation
+
+# Prerequisites
+
+You must have Microsoft Word installed on your computer or a Microsoft Office 365 account online. If you want to sign up for Microsoft Office 365 online and need help with the steps to sign up, click here.
+If you are new to Microsoft Word, click here.
+
+# Scenario: Develop an Application (App) to Provide Real-Time Marketing Data
+
+The AHI development team is ready to report the project status (refer to the Review a Project and Scenario Update reading).
+
+In addition, the team also received a change request. It now needs to perform an impact analysis and provide implementation options.
+
+# Exercise 1: Create a Project Status Report
+
+Keeping the CTRL key pressed, click here to download the Project Status Report Template document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Refer to the Review a Project and Scenario Update reading.
+
+Open the Project Status Report Template document and fill in the details.
+
+Keeping the CTRL key pressed, click here to download the Project Status Report Potential Solution document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Open the Project Status Report Potential Solution document and compare your report with the given solution.
+
+Save your project status report with a meaningful name and as a PDF, such as the AHI Project Status Report.
+
+Use these directions to save a Word document as a PDF if you do not know how already. You will need to upload a PDF for your final project.
+
+# Exercise 2: Analyze a Change Request
+
+Keeping the CTRL key pressed, click here to download the Change Request Form document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Open the Change Request Form document and review the given change request.
+
+Analyze the impact analysis and list your findings in the form.
+
+Recommend options for implementation and list them in the form.
+
+Perform decision recommendations. They include:
+
+Accept as is
+Accept with modifications
+Defer
+Reject
+Further analysis required
+Save your change request form with a meaningful name and as a PDF, such as the AHI Change Request Analysis.
+
+# Lab 7: Project Close-Out Report
+Estimated time needed: 45 minutes
+
+# Objective
+After completing this lab, you will be able to create a project close-out report.
+
+# Prerequisites
+
+You must have Microsoft Word installed on your computer or a Microsoft Office 365 account online. If you want to sign up for Microsoft Office 365 online and need help with the steps to sign up, click here.
+If you are new to Microsoft Word, click here.
+
+# Scenario: Develop an Application (App) to Provide Real-Time Marketing Data
+
+The AHI app development is finished. It is now time to complete a project close-out report.
+
+# Exercise: Create a Project Close-Out Report
+
+Keeping the CTRL key pressed, click here to download the Project Close-Out Report Template document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Review the Lessons Learned and Retrospective reading.
+
+Open the Project Close-Out Report Template document and fill in the details.
+
+Save your report with a meaningful name and also save it as a PDF, such as AHI Project Close-Out Report.
