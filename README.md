@@ -437,7 +437,8 @@ Note: At any point during the lab, you can refer to the example if you have any 
 
 Use these directions to save a Word document as a PDF if you do not know how already. You will need to upload a PDF for your final project.
 
-Exercise 3: Develop Sprint Backlog
+# Exercise 3: Develop Sprint Backlog
+
 Keeping the CTRL key pressed, click here to download the Sprint Backlog Template.
 Annotate the Story ID information from the product backlog.
 Assign a lead to each user story. Create some names to serve as resources.
