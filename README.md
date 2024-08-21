@@ -1,6 +1,6 @@
 # IBM-IT-Project-Management-Capstone
 
-#Business Case
+# Business Case
 Overview
 Review this business case to assist you in developing a comprehensive project charter and stakeholder register. This business case was approved by AHI Inc.
 
