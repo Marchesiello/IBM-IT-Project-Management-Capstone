@@ -57,7 +57,7 @@ Make adjustments
 Monitor app effectiveness
 Plan for Version 2
 
-Lab 1: Create a Project Charter and Stakeholder Register
+# Lab 1: Create a Project Charter and Stakeholder Register
 Estimated time needed: 60 minutes
 
 Based on the given scenario, business case, and Stacey diagram, you will create a project charter and stakeholder register.
@@ -73,7 +73,9 @@ Prerequisites
 You must have Microsoft Excel and Microsoft Word installed on your computer or a Microsoft Office 365 account online. If you want to sign up for Microsoft Office 365 online and need help with the steps to sign up, click here.
 If you are new to Microsoft Excel, click here.
 If you are new to Microsoft Word, click here.
-Exercise 1: Create a Project Charter
+
+# Exercise 1: Create a Project Charter
+
 Keeping the CTRL key pressed, click here to download the Project Charter Template document.
 Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
 
@@ -106,7 +108,8 @@ Save your project charter document with a meaningful name and as a PDF, such as 
 
 Use these directions to save a Word document as a PDF if you do not know how already. You will need to upload a PDF for your final project.
 
-Exercise 2: Create a Stakeholder Register
+# Exercise 2: Create a Stakeholder Register
+
 Keeping the CTRL key pressed, click here to download the Stakeholder Register Template document.
 Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
 
@@ -134,7 +137,7 @@ Review the contents of the stakeholder register and make changes as needed.
 
 Save the stakeholder register document with a meaningful name and as a PDF, such as AHI App Stakeholder Register.
 
-Lab 2: Create Work Breakdown Structure (WBS), Project Network Diagram, and High-Level Budget
+# Lab 2: Create Work Breakdown Structure (WBS), Project Network Diagram, and High-Level Budget
 Estimated time needed: 135 minutes
 
 Objectives
