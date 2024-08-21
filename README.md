@@ -578,3 +578,25 @@ Review the Lessons Learned and Retrospective reading.
 Open the Project Close-Out Report Template document and fill in the details.
 
 Save your report with a meaningful name and also save it as a PDF, such as AHI Project Close-Out Report.
+
+# Module 5: Overview and Project Submission Requirements
+
+# Objective:
+
+Provide an overview of Module five and its submission requirements
+
+# Introduction
+
+Welcome to Module 5. In this module, you'll complete your final project.
+
+To submit your final project, you'll submit the PDF copies of the following project artifacts you completed during the course labs for peer review:
+
+Project Charter
+Work Breakdown Structure (WBS)
+Risk Register
+Product Backlog
+Status Report
+Close-Out Report
+You can earn a total of 50 points for 6 tasks in this final project.Your peers who are also completing this assignment within the same session will grade your final project. You will also grade your peers.
+
+Note: You can take as many breaks as needed between the exercises.
