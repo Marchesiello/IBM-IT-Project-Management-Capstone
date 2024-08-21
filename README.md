@@ -1,7 +1,8 @@
 # IBM-IT-Project-Management-Capstone
 
 # Business Case
-Overview
+
+# Overview
 Review this business case to assist you in developing a comprehensive project charter and stakeholder register. This business case was approved by AHI Inc.
 
 Business Need
@@ -64,12 +65,14 @@ Based on the given scenario, business case, and Stacey diagram, you will create 
 
 Refer to the Project Scenario and Business Case when creating the project charter and stakeholder register.
 
-Objectives
+# Objectives
 After completing this lab, you will be able to:
 
 Create a project charter
 Create a stakeholder register
-Prerequisites
+
+# Prerequisites
+
 You must have Microsoft Excel and Microsoft Word installed on your computer or a Microsoft Office 365 account online. If you want to sign up for Microsoft Office 365 online and need help with the steps to sign up, click here.
 If you are new to Microsoft Excel, click here.
 If you are new to Microsoft Word, click here.
@@ -140,13 +143,14 @@ Save the stakeholder register document with a meaningful name and as a PDF, such
 # Lab 2: Create Work Breakdown Structure (WBS), Project Network Diagram, and High-Level Budget
 Estimated time needed: 135 minutes
 
-Objectives
+# Objectives
 After completing this lab, you will be able to:
 
 Create a work breakdown structure (WBS)
 Create a project network diagram
 Create a high-level budget using an RBS
-Prerequisites
+
+# Prerequisites
 You must have Microsoft Excel installed on your computer or a Microsoft Office 365 account online. If you want to sign up for Microsoft Office 365 online and need help with the steps to sign up, click here.
 
 If you are new to Microsoft Excel, click here.
@@ -160,7 +164,9 @@ It is highly recommended that you watch the following videos before starting:
 Create a WBS
 Create a Network Diagram
 Create a High-Level Budget
-Scenario: Develop an Application (App) to Provide Real-Time Marketing Data
+
+# Scenario: Develop an Application (App) to Provide Real-Time Marketing Data
+
 Good news! The project charter and stakeholder register have been approved. The Project Management Institute (PMI) recommends that scope, schedule, and cost be planned in this order during initial baseline planning. Your team will follow this recommendation.
 
 The project charter divided the project into five phases for scheduling purposes. The project team has decided to tailor the work breakdown structure (WBS), schedule, and high-level budget estimate using these phases.
@@ -213,7 +219,8 @@ All personnel costs are considered indirect. The organization bears training cos
 
 It's time to get to work!
 
-Exercise 1: Create a WBS
+# Exercise 1: Create a WBS
+
 Keeping the CTRL key pressed, click here to download the WBS Template document.
 Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
 
@@ -226,7 +233,8 @@ Save your WBS document with a meaningful name and as a PDF, such as AHI WBS.
 
 Use these directions to save a Word document as a PDF if you do not know how already. You will need to upload a PDF for your final project.
 
-Exercise 2: Create a Project Network Diagram
+# Exercise 2: Create a Project Network Diagram
+
 Keeping the CTRL key pressed, click here to download the Project Network Diagram Template document.
 Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
 
@@ -242,7 +250,8 @@ Save your Project Network Diagram document with a meaningful name, such as AHI A
 
 added pdf instructions> Use these directions to save a Word document as a PDF if you do not know how already. You will need to upload a PDF for your final project.
 
-Exercise 3: Create a High-Level Budget Using an RBS
+# Exercise 3: Create a High-Level Budget Using an RBS
+
 Keeping the CTRL key pressed, click here to download the High-Level Budget Template document.
 Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
 
@@ -256,3 +265,89 @@ Add the work packages that you identified while creating a WBS for the AHI app d
 Add costs, comments, total costs by category and by project, and the contingency requirements.
 
 Save your High-Level Budget document with a meaningful name and as a PDF, such as AHI High-Level Budget.
+
+# Lab 3: Create Quality Management Plan, Communications Management Plan, and Risk Register
+Estimated time needed: 120 minutes
+
+# Objectives
+
+After completing this lab, you will be able to:
+
+Create a quality management plan
+Create a communications management plan
+Create a risk register
+
+# Prerequisites
+
+You must have Microsoft Excel installed on your computer or a Microsoft Office 365 account online. If you want to sign up for Microsoft Office 365 online and need help with the steps to sign up, click here.
+If you are new to Microsoft Excel, click here.
+You should have completed the following labs before starting:
+Create a project charter
+Create a stakeholder register
+Create a WBS
+Create a project network diagram
+It is highly recommended that you watch the following videos before starting:
+Illustrate a Quality Management Plan
+Illustrate a Communication Management plan
+Illustrate a Risk Register
+
+# Scenario: Develop an Application (App) to Provide Real-Time Marketing Data
+
+Good news! Your work breakdown structure (WBS), project network diagram, and high-level budget have been approved. It's now time to begin project support planning. You have met with your sponsor Mary Smithers, and she has emphasized the need for a robust quality management program to ensure that the project meets requirements and creates an app that fits the purpose. This requires an effective quality assurance program for all phases of the project and quality control to ensure that all project deliverables are free of defects.
+
+One of your key team members, Keiko Tanaka, stated she is well-versed in quality assurance and quality control processes. Priya Service from IT and Ram Samuels from Marketing stated that they would like to act as subject matter experts to ensure the quality of app development and IT support activities. It was determined that an external vendor would be brought on board to work with the internal development team on app development.
+
+Mary also emphasized the need for effective communication. She called for weekly status meetings to include all key stakeholders. She also recommended establishing a change control board (CCB). Mary requested that you meet with her weekly in her office to discuss the project. She also stressed the need for solid communication throughout the project's procurement process.
+
+Mary strongly believes that if you fail to manage the risk, the risk will manage you. She would like to see a comprehensive risk register that addresses both threats and opportunities. Mary has concerns about the availability of feedback, the ability to hire the talent she needs, and the availability of quality training.
+
+It's time to get to work!
+
+# Exercise 1: Create a Quality Management Plan
+
+Keeping the CTRL key pressed, click here to download the Quality Management Plan Template document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Keeping the CTRL key pressed, here to download the Quality Management Plan Example document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+In the Quality Management Plan template, fill in the project name, outline the objectives from the project charter, assign roles and responsibilities for the quality team using RACI, and outline key quality assurance and quality control activities required to deliver quality.
+Note: List at least three activities each for quality assurance and quality control.
+
+Save your Quality Management Plan document with a meaningful name, such as AHI App Quality Management Plan.
+
+Make sure to attempt this exercise as it will help you gain a clear understanding of the concepts covered in the module.
+
+# Exercise 2: Create a Communications Management Plan
+
+Keeping the CTRL key pressed, click here to download the Communications Management Plan Template document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Keeping the CTRL key pressed, click here to download the Communications Management Plan Example document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Refer to the newly created Quality Management Plan while creating the Communications Management Plan.
+
+In the Communications Management Plan Template document, fill in the project name, date, and all the columns for each communications item.
+Note: List at least six communications items.
+
+Save your Communications Management Plan document with a meaningful name and also save it as a PDF, such as AHI App Communications Management Plan.
+
+Use these directions to save a Word document as a PDF if you do not know how already. You will need to upload a PDF for your final project.
+
+# Exercise 3: Create a Risk Register
+
+Keeping the CTRL key pressed, click here to download the Risk Register Template document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Keeping the CTRL key pressed, click here to download the Risk Register Example document.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Refer to the newly created Quality Management Plan and Communications Management Plan while creating the Risk Register.
+
+In the Risk Register Template document, fill in the project name, date, and all the columns for each risk. Try to identify threats and opportunities. Remember that threat risk scores are a positive number. Opportunity risk scores are a negative number.
+Note: List at least six risks and one opportunity.
+
+Calculate the total risk score for the project.
+
+Save your Risk Register document with a meaningful name and also as a PDF, such as AHI App Risk Register.
